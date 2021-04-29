@@ -52,3 +52,5 @@ console.log(me.shoeCount);
 */
 me.favoriteColor = 'Blue';
 console.log('adding favorite color to the variable \"me\"', me);
+
+//Assignment complete
